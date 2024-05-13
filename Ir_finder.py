@@ -2,7 +2,7 @@ import torch
 import matplotlib.pyplot as plt
 
 from train import main
-from corolization import ColorfulColorizer, MultinomialCELoss
+from colorization import ColorfulColorizer, MultinomialCELoss
 
 dset_root = './SUN2012'
 batch_size = 12

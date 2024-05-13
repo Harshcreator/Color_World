@@ -12,7 +12,7 @@ import getopt
 from colorutils import NNEncode
 
 import dataset
-from corolization import ColorfulColorizer
+from colorization import ColorfulColorizer
 
 import pdb
 

@@ -8,7 +8,7 @@ import sys
 import os
 import getopt
 
-from corolization import ColorfulColorizer, MultinomialCELoss
+from colorization import ColorfulColorizer, MultinomialCELoss
 import dataset
 
 def main(dset_root, batch_size, num_epochs, print_freq, encoder, criterion,
